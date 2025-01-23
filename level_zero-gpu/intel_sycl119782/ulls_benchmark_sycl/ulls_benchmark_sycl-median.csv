@@ -1,0 +1,43 @@
+TestCase,Median
+BestWalkerSubmission(api=sycl),25.187
+EmptyKernel(api=sycl wgc=1 wgs=1),26.244
+EmptyKernel(api=sycl wgc=1 wgs=32),26.298
+EmptyKernel(api=sycl wgc=1 wgs=256),26.047
+EmptyKernel(api=sycl wgc=1000 wgs=1),27.461
+EmptyKernel(api=sycl wgc=1000 wgs=32),27.497
+EmptyKernel(api=sycl wgc=1000 wgs=256),32.825
+EmptyKernel(api=sycl wgc=10000 wgs=1),43.775
+EmptyKernel(api=sycl wgc=10000 wgs=32),43.829
+EmptyKernel(api=sycl wgc=10000 wgs=256),96.224
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=0 barrier=0 hostVisible=0 inOrder=0 counterBasedEvents=0),2.51
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=0 barrier=0 hostVisible=0 inOrder=0 counterBasedEvents=1),2.481
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=0 barrier=0 hostVisible=0 inOrder=1 counterBasedEvents=0),2.496
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=0 barrier=0 hostVisible=0 inOrder=1 counterBasedEvents=1),2.466
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=0 barrier=0 hostVisible=1 inOrder=0 counterBasedEvents=0),2.51
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=0 barrier=0 hostVisible=1 inOrder=0 counterBasedEvents=1),2.466
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=0 barrier=0 hostVisible=1 inOrder=1 counterBasedEvents=0),2.466
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=0 barrier=0 hostVisible=1 inOrder=1 counterBasedEvents=1),2.451
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=0 barrier=1 hostVisible=0 inOrder=0 counterBasedEvents=0),2.481
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=0 barrier=1 hostVisible=0 inOrder=0 counterBasedEvents=1),2.466
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=0 barrier=1 hostVisible=0 inOrder=1 counterBasedEvents=0),2.481
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=0 barrier=1 hostVisible=0 inOrder=1 counterBasedEvents=1),2.466
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=0 barrier=1 hostVisible=1 inOrder=0 counterBasedEvents=0),2.466
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=0 barrier=1 hostVisible=1 inOrder=0 counterBasedEvents=1),2.451
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=0 barrier=1 hostVisible=1 inOrder=1 counterBasedEvents=0),2.481
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=0 barrier=1 hostVisible=1 inOrder=1 counterBasedEvents=1),2.51
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=1 barrier=0 hostVisible=0 inOrder=0 counterBasedEvents=0),2.489
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=1 barrier=0 hostVisible=0 inOrder=0 counterBasedEvents=1),2.496
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=1 barrier=0 hostVisible=0 inOrder=1 counterBasedEvents=0),2.481
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=1 barrier=0 hostVisible=0 inOrder=1 counterBasedEvents=1),2.51
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=1 barrier=0 hostVisible=1 inOrder=0 counterBasedEvents=0),2.481
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=1 barrier=0 hostVisible=1 inOrder=0 counterBasedEvents=1),2.481
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=1 barrier=0 hostVisible=1 inOrder=1 counterBasedEvents=0),2.466
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=1 barrier=0 hostVisible=1 inOrder=1 counterBasedEvents=1),2.481
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=1 barrier=1 hostVisible=0 inOrder=0 counterBasedEvents=0),2.481
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=1 barrier=1 hostVisible=0 inOrder=0 counterBasedEvents=1),2.466
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=1 barrier=1 hostVisible=0 inOrder=1 counterBasedEvents=0),2.466
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=1 barrier=1 hostVisible=0 inOrder=1 counterBasedEvents=1),2.481
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=1 barrier=1 hostVisible=1 inOrder=0 counterBasedEvents=0),2.466
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=1 barrier=1 hostVisible=1 inOrder=0 counterBasedEvents=1),2.474
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=1 barrier=1 hostVisible=1 inOrder=1 counterBasedEvents=0),2.466
+KernelSwitchLatency(api=sycl count=8 execTime=200 flush=1 barrier=1 hostVisible=1 inOrder=1 counterBasedEvents=1),2.481
