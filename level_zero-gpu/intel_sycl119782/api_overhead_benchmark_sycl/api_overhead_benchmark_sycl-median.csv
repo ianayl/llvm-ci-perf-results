@@ -1,209 +1,209 @@
 TestCase,Median
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=0),2.678
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=1),2.2300000000000004
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=0),3.5825
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=1),3.5385
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=0),2.2135
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=1),2.2065
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=0),3.5265
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=1),3.5345
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=0),2.2115
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=1),2.2095000000000002
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=0),3.5545
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=1),3.4995
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=0),2.2270000000000003
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=1),2.1965000000000003
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=0),3.5359999999999996
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=1),3.5229999999999997
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=0),26.038
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=1),26.055500000000002
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=0),27.179000000000002
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=1),27.162
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=0),26.0365
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=1),26.063499999999998
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=0),27.180500000000002
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=1),27.2635
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=0),25.991
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=1),26.11
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=0),27.255
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=1),27.107
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=0),25.933999999999997
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=1),25.8595
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=0),27.0475
-ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=1),27.065
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=0),30.378500000000003
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=1),30.655
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=0),44.7295
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=1),44.7805
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=0),30.3295
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=1),30.627
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=0),44.732
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=1),44.777
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=0),30.3465
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=1),30.551000000000002
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=0),44.46
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=1),44.695
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=0),30.502000000000002
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=1),30.601
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=0),44.61150000000001
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=1),44.716499999999996
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=0),73.515
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=1),73.779
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=0),80.1625
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=1),80.108
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=0),73.676
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=1),73.72649999999999
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=0),80.362
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=1),79.826
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=0),73.8395
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=1),74.00399999999999
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=0),83.0645
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=1),79.958
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=0),73.423
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=1),73.717
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=0),80.4285
-ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=1),80.243
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=0),2.237
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=1),2.2405
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=0),3.572
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=1),3.5410000000000004
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=0),2.217
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=1),2.2125
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=0),3.558
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=1),3.5335
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=0),2.2465
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=1),2.222
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=0),3.545
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=1),3.5475000000000003
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=0),2.213
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=1),2.222
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=0),3.545
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=1),3.5375
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=0),26.058999999999997
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=1),26.0335
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=0),27.11
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=1),27.0925
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=0),25.954
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=1),25.892
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=0),27.133000000000003
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=1),27.195
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=0),26.0325
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=1),26.134500000000003
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=0),27.217
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=1),27.320999999999998
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=0),26.0475
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=1),26.0815
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=0),27.285
-ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=1),27.225
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=0),30.564500000000002
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=1),30.4075
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=0),44.573499999999996
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=1),44.774
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=0),30.3765
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=1),30.509500000000003
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=0),44.6855
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=1),44.5785
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=0),30.506999999999998
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=1),30.5445
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=0),44.647999999999996
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=1),44.907
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=0),30.46
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=1),30.506999999999998
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=0),44.762
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=1),44.6905
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=0),73.5855
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=1),74.2355
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=0),80.157
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=1),80.0835
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=0),73.603
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=1),73.6925
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=0),80.167
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=1),80.3545
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=0),73.8095
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=1),74.0135
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=0),80.4805
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=1),80.1135
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=0),73.588
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=1),73.726
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=0),80.064
-ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=1),80.101
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Device dst=Device size=64MB ioq=0),12.683499999999999
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Device dst=Device size=64MB ioq=1),12.7035
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Device dst=Host size=64MB ioq=0),12.649000000000001
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Device dst=Host size=64MB ioq=1),12.544
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Device dst=non-USM size=64MB ioq=0),4952.937
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Device dst=non-USM size=64MB ioq=1),4946.467500000001
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Host dst=Device size=64MB ioq=0),12.632
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Host dst=Device size=64MB ioq=1),12.650500000000001
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Host dst=Host size=64MB ioq=0),12.674499999999998
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Host dst=Host size=64MB ioq=1),12.709
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Host dst=non-USM size=64MB ioq=0),4866.2425
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Host dst=non-USM size=64MB ioq=1),4878.179
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=non-USM dst=Device size=64MB ioq=0),4926.844
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=non-USM dst=Device size=64MB ioq=1),4955.772
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=non-USM dst=Host size=64MB ioq=0),4892.2505
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=non-USM dst=Host size=64MB ioq=1),4894.3235
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=non-USM dst=non-USM size=64MB ioq=0),8159.4405
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=non-USM dst=non-USM size=64MB ioq=1),8162.978
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Device dst=Device size=64MB ioq=0),3376.5020000000004
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Device dst=Device size=64MB ioq=1),3372.342
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Device dst=Host size=64MB ioq=0),3422.8845
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Device dst=Host size=64MB ioq=1),3432.192
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Device dst=non-USM size=64MB ioq=0),8255.8315
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Device dst=non-USM size=64MB ioq=1),8325.4205
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Host dst=Device size=64MB ioq=0),3390.087
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Host dst=Device size=64MB ioq=1),3394.214
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Host dst=Host size=64MB ioq=0),3392.317
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Host dst=Host size=64MB ioq=1),3395.3125
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Host dst=non-USM size=64MB ioq=0),8357.3755
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Host dst=non-USM size=64MB ioq=1),8328.8925
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=non-USM dst=Device size=64MB ioq=0),8583.809
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=non-USM dst=Device size=64MB ioq=1),8587.2875
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=non-USM dst=Host size=64MB ioq=0),8619.1665
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=non-USM dst=Host size=64MB ioq=1),8577.5645
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=non-USM dst=non-USM size=64MB ioq=0),11628.814
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=non-USM dst=non-USM size=64MB ioq=1),11627.325
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Device dst=Device size=64MB ioq=0),12.666
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Device dst=Device size=64MB ioq=1),12.695
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Device dst=Host size=64MB ioq=0),12.8185
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Device dst=Host size=64MB ioq=1),12.5855
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Device dst=non-USM size=64MB ioq=0),4913.1945
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Device dst=non-USM size=64MB ioq=1),4998.8615
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Host dst=Device size=64MB ioq=0),12.8965
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Host dst=Device size=64MB ioq=1),12.8545
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Host dst=Host size=64MB ioq=0),12.751999999999999
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Host dst=Host size=64MB ioq=1),12.637
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Host dst=non-USM size=64MB ioq=0),4921.229
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Host dst=non-USM size=64MB ioq=1),4907.275
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=non-USM dst=Device size=64MB ioq=0),4968.785
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=non-USM dst=Device size=64MB ioq=1),5057.0435
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=non-USM dst=Host size=64MB ioq=0),4977.2865
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=non-USM dst=Host size=64MB ioq=1),4949.795
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=non-USM dst=non-USM size=64MB ioq=0),8221.368
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=non-USM dst=non-USM size=64MB ioq=1),8218.767
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Device dst=Device size=64MB ioq=0),3376.187
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Device dst=Device size=64MB ioq=1),3370.7725
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Device dst=Host size=64MB ioq=0),3423.875
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Device dst=Host size=64MB ioq=1),3432.9505
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Device dst=non-USM size=64MB ioq=0),8334.752499999999
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Device dst=non-USM size=64MB ioq=1),8415.469000000001
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Host dst=Device size=64MB ioq=0),3393.1375
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Host dst=Device size=64MB ioq=1),3392.192
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Host dst=Host size=64MB ioq=0),3394.3545000000004
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Host dst=Host size=64MB ioq=1),3393.3635000000004
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Host dst=non-USM size=64MB ioq=0),8347.075499999999
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Host dst=non-USM size=64MB ioq=1),8303.9955
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=non-USM dst=Device size=64MB ioq=0),8594.492
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=non-USM dst=Device size=64MB ioq=1),8560.651000000002
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=non-USM dst=Host size=64MB ioq=0),8662.033
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=non-USM dst=Host size=64MB ioq=1),8593.6045
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=non-USM dst=non-USM size=64MB ioq=0),11620.4755
-ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=non-USM dst=non-USM size=64MB ioq=1),11639.236499999999
-SubmitKernel(api=sycl Profiling=0 Ioq=0 DiscardEvents=0 NumKernels=10 KernelExecTime=1 MeasureCompletion=0),46.4815
-SubmitKernel(api=sycl Profiling=0 Ioq=0 DiscardEvents=0 NumKernels=10 KernelExecTime=1 MeasureCompletion=1),76.384
-SubmitKernel(api=sycl Profiling=0 Ioq=0 DiscardEvents=1 NumKernels=10 KernelExecTime=1 MeasureCompletion=0),46.685
-SubmitKernel(api=sycl Profiling=0 Ioq=0 DiscardEvents=1 NumKernels=10 KernelExecTime=1 MeasureCompletion=1),76.62
-SubmitKernel(api=sycl Profiling=0 Ioq=1 DiscardEvents=0 NumKernels=10 KernelExecTime=1 MeasureCompletion=0),48.6515
-SubmitKernel(api=sycl Profiling=0 Ioq=1 DiscardEvents=0 NumKernels=10 KernelExecTime=1 MeasureCompletion=1),78.638
-SubmitKernel(api=sycl Profiling=0 Ioq=1 DiscardEvents=1 NumKernels=10 KernelExecTime=1 MeasureCompletion=0),109.669
-SubmitKernel(api=sycl Profiling=0 Ioq=1 DiscardEvents=1 NumKernels=10 KernelExecTime=1 MeasureCompletion=1),135.96050000000002
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=0),2.609
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=1),2.228
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=0),3.575
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=1),3.518
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=0),2.22
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=1),2.214
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=0),3.52
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=1),3.53
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=0),2.21
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=1),2.208
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=0),3.548
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=1),3.502
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=0),2.232
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=1),2.197
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=0),3.534
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=1),3.522
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=0),26.044
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=1),26.038
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=0),27.206
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=1),27.182
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=0),26.078
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=1),26.037
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=0),27.162
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=1),27.237
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=0),25.979
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=1),26.099
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=0),27.267
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=1),27.164
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=0),26.064
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=1),26.017
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=0),27.136
+ExecImmediate(api=sycl Profiling=0 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=1),27.167
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=0),30.446
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=1),30.644
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=0),44.684
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=1),44.676
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=0),30.399
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=1),30.621
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=0),44.678
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=1),44.672
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=0),30.298
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=1),30.577
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=0),44.456
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=1),44.658
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=0),30.512
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=1),30.526
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=0),44.63
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=1),44.578
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=0),73.505
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=1),73.742
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=0),79.936
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=1),80.113
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=0),73.491
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=1),73.722
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=0),80.333
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=1),79.912
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=0),73.785
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=1),74.006
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=0),80.508
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=1),80.032
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=0),73.473
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=1),73.678
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=0),80.352
+ExecImmediate(api=sycl Profiling=0 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=1),80.311
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=0),2.23
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=1),2.237
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=0),3.538
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=1),3.539
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=0),2.215
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=1),2.21
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=0),3.543
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=1),3.53
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=0),2.242
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=1),2.218
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=0),3.532
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=1),3.547
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=0),2.212
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=1),2.21
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=0),3.575
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=1),3.532
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=0),26.089
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=1),26.051
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=0),27.106
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=1),27.192
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=0),26.081
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=1),26.02
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=0),27.18
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=1),27.219
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=0),26.072
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=1),26.114
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=0),27.216
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=1),27.319
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=0),26.089
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=1),26.065
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=0),27.271
+ExecImmediate(api=sycl Profiling=1 CallsCount=1 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=1),27.254
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=0),30.559
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=1),30.473
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=0),44.484
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=1),44.72
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=0),30.337
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=1),30.489
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=0),44.583
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=1),44.615
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=0),30.537
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=1),30.44
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=0),44.519
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=1),44.905
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=0),30.566
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=1),30.538
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=0),44.684
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=0 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=1),44.548
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=0),73.541
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=0 ioq=1),74.169
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=0),80.151
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=1 EventSync=1 ioq=1),79.913
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=0),73.624
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=0 ioq=1),73.833
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=0),80.043
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=1 EventSync=1 ioq=1),79.881
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=0),73.785
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=0 ioq=1),73.951
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=0),80.316
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=0 KernelExecTime=100 EventSync=1 ioq=1),80.052
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=0),73.409
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=0 ioq=1),73.708
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=0),79.925
+ExecImmediate(api=sycl Profiling=1 CallsCount=10 MeasureCompletion=1 BarrierSynchro=1 KernelExecTime=100 EventSync=1 ioq=1),80.066
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Device dst=Device size=64MB ioq=0),12.649
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Device dst=Device size=64MB ioq=1),12.841
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Device dst=Host size=64MB ioq=0),12.736
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Device dst=Host size=64MB ioq=1),12.547
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Device dst=non-USM size=64MB ioq=0),4959.023
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Device dst=non-USM size=64MB ioq=1),4935.222
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Host dst=Device size=64MB ioq=0),12.75
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Host dst=Device size=64MB ioq=1),12.671
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Host dst=Host size=64MB ioq=0),12.684
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Host dst=Host size=64MB ioq=1),12.667
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Host dst=non-USM size=64MB ioq=0),4874.301
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=Host dst=non-USM size=64MB ioq=1),4877.131
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=non-USM dst=Device size=64MB ioq=0),4973.831
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=non-USM dst=Device size=64MB ioq=1),4949.835
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=non-USM dst=Host size=64MB ioq=0),4899.717
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=non-USM dst=Host size=64MB ioq=1),4867.922
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=non-USM dst=non-USM size=64MB ioq=0),8161.155
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=0 src=non-USM dst=non-USM size=64MB ioq=1),8157.008
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Device dst=Device size=64MB ioq=0),3376.713
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Device dst=Device size=64MB ioq=1),3372.322
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Device dst=Host size=64MB ioq=0),3423.538
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Device dst=Host size=64MB ioq=1),3432.224
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Device dst=non-USM size=64MB ioq=0),8284.998
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Device dst=non-USM size=64MB ioq=1),8314.233
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Host dst=Device size=64MB ioq=0),3392.427
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Host dst=Device size=64MB ioq=1),3396.221
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Host dst=Host size=64MB ioq=0),3392.729
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Host dst=Host size=64MB ioq=1),3396.555
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Host dst=non-USM size=64MB ioq=0),8366.349
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=Host dst=non-USM size=64MB ioq=1),8298.126
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=non-USM dst=Device size=64MB ioq=0),8603.65
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=non-USM dst=Device size=64MB ioq=1),8591.12
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=non-USM dst=Host size=64MB ioq=0),8625.061
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=non-USM dst=Host size=64MB ioq=1),8580.103
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=non-USM dst=non-USM size=64MB ioq=0),11616.582
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=1 MeasureCompletionTime=1 src=non-USM dst=non-USM size=64MB ioq=1),11635.094
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Device dst=Device size=64MB ioq=0),12.849
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Device dst=Device size=64MB ioq=1),12.841
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Device dst=Host size=64MB ioq=0),12.878
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Device dst=Host size=64MB ioq=1),12.729
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Device dst=non-USM size=64MB ioq=0),4930.362
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Device dst=non-USM size=64MB ioq=1),4983.842
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Host dst=Device size=64MB ioq=0),13.014
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Host dst=Device size=64MB ioq=1),12.916
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Host dst=Host size=64MB ioq=0),12.663
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Host dst=Host size=64MB ioq=1),12.725
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Host dst=non-USM size=64MB ioq=0),4926.568
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=Host dst=non-USM size=64MB ioq=1),4898.636
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=non-USM dst=Device size=64MB ioq=0),4959.953
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=non-USM dst=Device size=64MB ioq=1),5052.374
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=non-USM dst=Host size=64MB ioq=0),4954.985
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=non-USM dst=Host size=64MB ioq=1),4962.478
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=non-USM dst=non-USM size=64MB ioq=0),8206.619
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=0 src=non-USM dst=non-USM size=64MB ioq=1),8216.966
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Device dst=Device size=64MB ioq=0),3376.261
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Device dst=Device size=64MB ioq=1),3371.457
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Device dst=Host size=64MB ioq=0),3423.243
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Device dst=Host size=64MB ioq=1),3430.899
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Device dst=non-USM size=64MB ioq=0),8336.659
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Device dst=non-USM size=64MB ioq=1),8369.923
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Host dst=Device size=64MB ioq=0),3391.635
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Host dst=Device size=64MB ioq=1),3390.644
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Host dst=Host size=64MB ioq=0),3394.001
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Host dst=Host size=64MB ioq=1),3393.909
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Host dst=non-USM size=64MB ioq=0),8342.972
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=Host dst=non-USM size=64MB ioq=1),8295.523
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=non-USM dst=Device size=64MB ioq=0),8612.558
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=non-USM dst=Device size=64MB ioq=1),8604.727
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=non-USM dst=Host size=64MB ioq=0),8654.155
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=non-USM dst=Host size=64MB ioq=1),8582.82
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=non-USM dst=non-USM size=64MB ioq=0),11619.42
+ExecImmediateCopyQueue(api=sycl IsCopyOnly=0 MeasureCompletionTime=1 src=non-USM dst=non-USM size=64MB ioq=1),11636.908
+SubmitKernel(api=sycl Profiling=0 Ioq=0 DiscardEvents=0 NumKernels=10 KernelExecTime=1 MeasureCompletion=0),46.539
+SubmitKernel(api=sycl Profiling=0 Ioq=0 DiscardEvents=0 NumKernels=10 KernelExecTime=1 MeasureCompletion=1),76.41
+SubmitKernel(api=sycl Profiling=0 Ioq=0 DiscardEvents=1 NumKernels=10 KernelExecTime=1 MeasureCompletion=0),47.207
+SubmitKernel(api=sycl Profiling=0 Ioq=0 DiscardEvents=1 NumKernels=10 KernelExecTime=1 MeasureCompletion=1),76.813
+SubmitKernel(api=sycl Profiling=0 Ioq=1 DiscardEvents=0 NumKernels=10 KernelExecTime=1 MeasureCompletion=0),48.797
+SubmitKernel(api=sycl Profiling=0 Ioq=1 DiscardEvents=0 NumKernels=10 KernelExecTime=1 MeasureCompletion=1),78.721
+SubmitKernel(api=sycl Profiling=0 Ioq=1 DiscardEvents=1 NumKernels=10 KernelExecTime=1 MeasureCompletion=0),109.817
+SubmitKernel(api=sycl Profiling=0 Ioq=1 DiscardEvents=1 NumKernels=10 KernelExecTime=1 MeasureCompletion=1),136.246
